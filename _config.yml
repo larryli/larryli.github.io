@@ -1,0 +1,10 @@
+# Site settings
+title: Larry Li's Weblog
+url: "https://larryli.github.io"
+
+github: [metadata]
+# Build settings
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
