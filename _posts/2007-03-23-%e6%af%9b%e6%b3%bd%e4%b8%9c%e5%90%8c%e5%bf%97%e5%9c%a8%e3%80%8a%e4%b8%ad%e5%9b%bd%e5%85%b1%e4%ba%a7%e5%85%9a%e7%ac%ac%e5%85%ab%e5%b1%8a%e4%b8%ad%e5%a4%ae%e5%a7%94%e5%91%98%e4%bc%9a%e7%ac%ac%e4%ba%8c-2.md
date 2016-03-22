@@ -9,7 +9,7 @@ layout: post
 permalink: https://larryli.cn/2007/03/263056
 published: true
 ---
- （一九五六年十一月十五日）
+（一九五六年十一月十五日）
 
 论拆迁
 

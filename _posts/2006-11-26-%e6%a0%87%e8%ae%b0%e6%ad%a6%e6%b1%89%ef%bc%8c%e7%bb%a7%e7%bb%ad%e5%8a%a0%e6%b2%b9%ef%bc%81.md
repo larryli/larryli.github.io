@@ -13,4 +13,3 @@ published: true
 中国大陆城市都没有突破一千，依次是北京 995，上海 784，和武汉的 552 处标记。
 <a href="http://www.wikimapia.org/#y=31541090&amp;x=123266602&amp;z=5&amp;l=6&amp;m=a&amp;v=2">http://www.wikimapia.org/#y=31541090&amp;x=123266602&amp;z=5&amp;l=6&amp;m=a&amp;v=2</a>
 <!--more-->
-<iframe src="http://wikimapia.org/s/#y=30577632&amp;x=114285278&amp;z=11&amp;l=6&amp;m=a&amp;v=2" frameborder="0" height="400" width="500"></iframe>
