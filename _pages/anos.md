@@ -8,7 +8,6 @@ layout: page
 permalink: https://larryli.cn/anos
 published: true
 ---
-
 <pre style="background-color: #000000"><font color="red">* <strong>ANOS: AN Operating System</strong>
 * Released under the terms of BSD  Public Licence.
 * Larry Li (<a href="mailto:tryos@126.com">tryos@126.com</a>), 2005</font>
