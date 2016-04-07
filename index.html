@@ -1,12 +1,5 @@
 ---
-ID: 645562
-post_title: ""
-author: 南 靖男
-post_date: 2016-03-23 14:32:54
-post_excerpt: ""
 layout: default
-permalink: https://larryli.cn/?p=645562
-published: false
 ---
 <div class="home">
 	<section>
@@ -15,10 +8,10 @@ published: false
 			{% for post in site.posts limit:10 %}
 			<li>
 				<span>{{ post.date | date: "%Y-%m-%d" }}</span>
-				<a href="site.baseurl }}">{{ post.post_title }}</a>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.post_title }}</a>
 			</li>
 			{% endfor %}
 		</ul>
-		<p><a>查看更多...</a></p>
+		<p><a href="{{ "/archives/" | prepend: site.baseurl }}">查看更多...</a></p>
 	</section>
 </div>
