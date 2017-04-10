@@ -9,6 +9,18 @@ post_excerpt: ""
 layout: post
 permalink: https://larryli.cn/2014/03/644804
 published: true
+wp-syntax-cache-content:
+  - |
+    a:3:{i:1;s:343:"
+    <div class="wp_syntax" style="position:relative;"><table><tr><td class="line_numbers"><pre>1
+    </pre></td><td class="code"><pre class="sh" style="font-family:monospace;">git subsplit init https://github.com/yourname/foo</pre></td></tr></table><p class="theCode" style="display:none;">git subsplit init https://github.com/yourname/foo</p></div>
+    ;i:2;s:283:
+    <div class="wp_syntax" style="position:relative;"><table><tr><td class="line_numbers"><pre>1
+    </pre></td><td class="code"><pre class="sh" style="font-family:monospace;">git subsplit update</pre></td></tr></table><p class="theCode" style="display:none;">git subsplit update</p></div>
+    ;i:3;s:395:
+    <div class="wp_syntax" style="position:relative;"><table><tr><td class="line_numbers"><pre>1
+    </pre></td><td class="code"><pre class="sh" style="font-family:monospace;">git subsplit publish bar:https://github.com/yourname/foo-bar --heads=master</pre></td></tr></table><p class="theCode" style="display:none;">git subsplit publish bar:https://github.com/yourname/foo-bar --heads=master</p></div>
+    ";}
 ---
 Github 的官方文档有说明<a href="https://help.github.com/articles/splitting-a-subpath-out-into-a-new-repository" title="Splitting a subpath out into a new repository" target="_blank">如何使用 git 分离一个已存在版本库的子目录到新的版本库</a>。但这玩意就是一次性的。分离之后，父库上的子目录修改没办法自动同步到子库上。
 
