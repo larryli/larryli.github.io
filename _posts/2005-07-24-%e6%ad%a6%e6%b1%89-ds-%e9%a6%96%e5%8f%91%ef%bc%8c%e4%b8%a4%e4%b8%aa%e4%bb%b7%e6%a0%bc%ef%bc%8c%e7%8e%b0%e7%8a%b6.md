@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-07-24 15:07:46
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/07/262732
+permalink: 2005/07/262732
 published: true
 ---
 没有去现场，结果和预想的一样。汉口绝对没有武昌厚道。

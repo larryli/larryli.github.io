@@ -6,7 +6,7 @@ author: 南 靖男
 post_date: 2008-09-24 10:56:06
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/09/631265
+permalink: 2008/09/631265
 published: true
 ---
 公司内部配置了一个 WebDav，然后满世界找 WebDav 客户端，结果发现 Windows XP 的网上邻居就支持 WebDav。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-11-14 02:47:42
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/11/262595
+permalink: 2004/11/262595
 published: true
 ---
 打开了一些我熟悉的站点，嘿嘿。有些都根本打不开，更多的就是这样子的。

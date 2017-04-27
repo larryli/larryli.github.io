@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-03-31 20:19:46
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/625668
+permalink: 2008/03/625668
 published: true
 ---
 点击看大图，<a href="http://l6nvqsqivhrunqvs.onion/?do=topic&amp;id=547" title="core.onion down?">消息来源</a>（需要带 Tor 访问）。

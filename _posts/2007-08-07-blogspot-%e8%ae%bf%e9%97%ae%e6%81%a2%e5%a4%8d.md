@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-08-07 20:14:56
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2007/08/300043
+permalink: 2007/08/300043
 published: true
 ---
 在 RSS 里面打开一个<a href="http://aaronliang.blogspot.com/2007/08/jimmy-wales.html">链接</a>，看着看着发现一点点不对头。果然，这个是 <a href="http://www.blogspot.com">blogspot</a> 的博客。马上打开<a href="http://larryli.blogspot.com/">自己的</a>，访问正常。

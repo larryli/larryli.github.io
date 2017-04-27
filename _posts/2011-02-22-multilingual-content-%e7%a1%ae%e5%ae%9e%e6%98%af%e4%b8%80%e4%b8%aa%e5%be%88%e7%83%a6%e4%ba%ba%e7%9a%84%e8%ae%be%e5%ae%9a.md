@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2011-02-22 04:19:35
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2011/02/644487
+permalink: 2011/02/644487
 published: true
 ---
 <p>除了几大 CMS 之外，很少有其他项目涉及到这个问题。即使我最熟悉的 <a title="Managing multilingual content" href="http://drupal.org/node/133997" target="_blank">drupal</a>，在这个问题上从 4.x 到现在的 7.x 都纠结的不得了。不过，drupal 好歹完成了一个可用的基础 Multilingual 框架，早期的 patch 到现在 core 支持，有很大的进步。

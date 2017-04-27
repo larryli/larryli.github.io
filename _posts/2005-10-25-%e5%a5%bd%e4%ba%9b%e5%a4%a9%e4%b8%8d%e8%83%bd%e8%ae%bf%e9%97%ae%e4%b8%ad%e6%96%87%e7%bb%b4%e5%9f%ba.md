@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-10-25 19:48:49
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/10/262770
+permalink: 2005/10/262770
 published: true
 ---
 第三次封锁了，哎～～

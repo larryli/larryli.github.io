@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-08-21 22:45:12
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/08/265172
+permalink: 2006/08/265172
 published: true
 ---
 <span id="zoom">废柴、家里蹲、御宅们的真实故事。

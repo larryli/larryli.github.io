@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-12-22 17:14:52
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/12/262608
+permalink: 2004/12/262608
 published: true
 ---
 闷在办公室里看了一上午的动漫，中午出去吃饭的时候就发现雨点点不一样了。

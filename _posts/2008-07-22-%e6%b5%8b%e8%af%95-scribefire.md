@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-07-22 10:15:17
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/07/629731
+permalink: 2008/07/629731
 published: true
 ---
 换个 <a href="https://addons.mozilla.org/en-US/firefox/addon/1730">Blog Editor</a> 试试。。。

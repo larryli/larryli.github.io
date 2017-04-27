@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-03-29 22:18:58
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/625588
+permalink: 2008/03/625588
 published: true
 ---
  <a href="https://larryli.cn/wp-content/uploads/50/5051/2008/03/onionos-01.jpg" title="core.onion"><img src="https://larryli.cn/wp-content/uploads/50/5051/2008/03/onionos-01.thumbnail.jpg" alt="core.onion" /></a>

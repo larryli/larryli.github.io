@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-11-19 09:10:17
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/11/643479
+permalink: 2009/11/643479
 published: true
 ---
 <p>经公安部批准，并商国务院港澳办同意，深圳市出入境管理局将自2009年12月15日开始为常住深圳的非广东户籍居民办理赴香港“个人游”签注工作。<br />

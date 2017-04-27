@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-10-16 23:03:57
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/10/262577
+permalink: 2004/10/262577
 published: true
 ---
 恐怖啊！

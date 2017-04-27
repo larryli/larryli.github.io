@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-07-27 14:03:07
 post_excerpt: ""
 layout: page
-permalink: https://larryli.cn/about
+permalink: about
 published: true
 ---
 这是一个半吊子御宅男（おたく/otaku）的垃圾日志处理站，里面零零碎碎的内容遍及电脑 ACGN 相关的七七八八，毫无关联或者说随心所欲。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-02-26 20:47:14
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/02/262645
+permalink: 2005/02/262645
 published: true
 ---
 软盘的类型有很多，但是目前仅剩的唯一一种类型是 1.44M 3.5 英寸软盘。所以本处也只是对此类型进行说明。（在不远的将来，1.44 也会离我们远去。至少现在 2005 年很多系统上已经没有了它。）

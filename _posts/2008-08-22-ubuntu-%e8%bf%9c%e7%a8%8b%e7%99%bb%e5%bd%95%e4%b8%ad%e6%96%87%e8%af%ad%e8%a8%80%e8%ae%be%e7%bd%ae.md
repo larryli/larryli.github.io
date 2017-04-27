@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-08-22 13:25:39
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/08/630572
+permalink: 2008/08/630572
 published: true
 ---
 因为默认会在控制台操作，所以安装 Ubuntu Server 的时候选择的还是英文，而不是中文。但是用 PuTTY 远程登录的时候，能显示命令的中文界面未尝不是件好事。

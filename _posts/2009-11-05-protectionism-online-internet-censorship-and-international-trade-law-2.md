@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-11-05 20:15:24
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/11/643281
+permalink: 2009/11/643281
 published: true
 ---
 <div style="width: 150px; font-size: 10px; float: left; text-align: center; margin-right: 10px;"><p style="margin-top: 5px;"><img src="http://www.ecipe.org/protectionism-online-internet-censorship-and-international-trade-law/Cover" alt="Protectionism Online: Internet Censorship and International Trade Law" title="Protectionism Online: Internet Censorship and International Trade Law" style="border: 1px solid black;" width="147" height="206" /></p>

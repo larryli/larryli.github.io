@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-03-19 11:46:14
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/625162
+permalink: 2008/03/625162
 published: true
 ---
 svn 的分支处理与 cvs 不同，cvs 是采用内置命令生产新的内部结构来存放分支差异，而 svn 则是由用户自己来设计。

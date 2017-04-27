@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-12-07 19:51:11
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/12/262809
+permalink: 2005/12/262809
 published: true
 ---
 天使心的主题就是亲情，父女亲情。很适合我这样的人看。

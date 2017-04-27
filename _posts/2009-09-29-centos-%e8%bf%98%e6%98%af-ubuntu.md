@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-09-29 13:53:30
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/09/642357
+permalink: 2009/09/642357
 published: true
 ---
 其实我最早是属于 FreeBSD 一派的，倾向于自己 make world。当然也不排除 BSD 系统的 *NIX 血统影响。

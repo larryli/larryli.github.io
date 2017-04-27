@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2015-11-10 22:37:26
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2015/11/644926
+permalink: 2015/11/644926
 published: true
 ---
 一般来说使用 <code>git commit -S</code> 就调用 gpg 工具自动搜索 <code>user.name&lt;user.email&gt;</code> 对应的私钥来签名提交。

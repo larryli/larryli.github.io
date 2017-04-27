@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2013-03-27 23:07:35
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2013/03/644749
+permalink: 2013/03/644749
 published: true
 ---
 作为 Google Reader 的重度用户，真的无法接受 Google 关停 Reader 的决定。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-02-20 16:33:30
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/02/262638
+permalink: 2005/02/262638
 published: true
 ---
 <a href="http://blogs.reactos.com/w3seek/archive/2005/01/20/164.aspx">http://blogs.reactos.com/w3seek/archive/2005/01/20/164.aspx</a>

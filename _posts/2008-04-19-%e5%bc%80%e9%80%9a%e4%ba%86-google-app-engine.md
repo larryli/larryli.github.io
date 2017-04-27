@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-04-19 21:32:53
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/04/626405
+permalink: 2008/04/626405
 published: true
 ---
 随便注册了一个 <a href="http://xsk.appspot.com/">XSK</a> <img src="http://allgames.gamesh.com/srwbbs/images/face/XSK.gif" height="32" width="32" /> 下面是一些截图：

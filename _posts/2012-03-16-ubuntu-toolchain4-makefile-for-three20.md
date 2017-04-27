@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2012-03-16 02:38:11
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2012/03/644634
+permalink: 2012/03/644634
 published: true
 ---
 <a href="https://github.com/facebook/three20" title="Three20">Three20</a> 是 iOS 上一个基于 uri 设计的开发框架。<a href="https://github.com/javacom/toolchain4" title="toolchain4">toolchain4</a> 是 Ubuntu 下 iOS 的交叉编译环境。

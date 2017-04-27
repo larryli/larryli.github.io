@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-10-31 19:41:59
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/10/262987
+permalink: 2006/10/262987
 published: true
 ---
 就是 inside 2k 的 <a href="http://www.sysinternals.com">www.sysinternals.com</a> 最专业的非微软 Win32 技术站点。

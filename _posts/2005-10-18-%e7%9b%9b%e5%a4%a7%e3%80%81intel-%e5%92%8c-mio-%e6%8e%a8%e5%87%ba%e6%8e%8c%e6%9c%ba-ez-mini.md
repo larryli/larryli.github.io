@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2005-10-18 19:56:30
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/10/262767
+permalink: 2005/10/262767
 published: true
 ---
 详细内容看<a href="http://www.yyjoy.com/index.php?job=art&amp;articleid=a_20051017_184745">么么的 blog</a>

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-10-28 20:35:47
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/10/262771
+permalink: 2005/10/262771
 published: true
 ---
 我真的不想写下面的文字，但是既然有 Great Firewall，那么 Tor 的出现也是应该！

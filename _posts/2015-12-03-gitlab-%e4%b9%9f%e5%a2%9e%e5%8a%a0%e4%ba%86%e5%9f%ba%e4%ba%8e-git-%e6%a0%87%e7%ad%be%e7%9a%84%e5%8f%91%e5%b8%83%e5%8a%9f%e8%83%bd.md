@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2015-12-03 23:22:52
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2015/12/644932
+permalink: 2015/12/644932
 published: true
 ---
 就是 git tag release 功能。

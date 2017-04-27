@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2017-04-27 14:31:19
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2017/04/645625
+permalink: 2017/04/645625
 published: true
 ---
 <a href="https://letsencrypt.org/">Let's Encrypt</a> 申请证书的 <a href="https://ietf-wg-acme.github.io/acme/">ACME 协议</a>支持三种认证，分别是：

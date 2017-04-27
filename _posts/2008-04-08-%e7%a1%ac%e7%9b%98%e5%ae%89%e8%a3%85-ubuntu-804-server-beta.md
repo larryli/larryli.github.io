@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-04-08 23:18:29
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/04/626074
+permalink: 2008/04/626074
 published: true
 ---
 没必要为了这个 Beta 版本刻一张盘，我的 Ubuntu CD 已经足够多了。但手头有空余的硬盘，所以就想试试硬盘安装，折腾了一晚上，总算 OK 了。

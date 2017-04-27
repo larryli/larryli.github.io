@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2008-12-04 23:10:59
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/12/634538
+permalink: 2008/12/634538
 published: true
 ---
 <code>#!/bin/sh

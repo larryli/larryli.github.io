@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-06-05 20:54:05
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/06/262699
+permalink: 2005/06/262699
 published: true
 ---
 好了，花了五十块钱换了一个电容就好了。

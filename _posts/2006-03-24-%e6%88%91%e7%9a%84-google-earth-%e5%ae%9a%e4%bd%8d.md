@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-03-24 16:12:17
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/03/262883
+permalink: 2006/03/262883
 published: true
 ---
 很恶心的事情啦！在 <a href="http://earth.google.com">Google Earth</a> 上标了一些我私人的地点。

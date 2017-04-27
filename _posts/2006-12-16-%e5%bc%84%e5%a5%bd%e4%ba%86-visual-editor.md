@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-12-16 22:39:03
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/12/263013
+permalink: 2006/12/263013
 published: true
 ---
 <p align="left">在 xubuntu 下 apt-get 安装好 eclipse，然后下载 emf-sdo-runtime-2.2.0.zip GEF-runtime-3.2.zip JEM-runtime-1.2.2_jem.zip 和 VE-runtime-1.2.2_jem.zip 直接解压到 /usr/lib/ 也就是安装到 /usr/lib/eclipse 下。</p>

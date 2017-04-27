@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-12-24 23:57:03
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/12/262610
+permalink: 2004/12/262610
 published: true
 ---
 一年一度，好好睡觉。

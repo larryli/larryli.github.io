@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-12-10 19:54:39
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/12/262813
+permalink: 2005/12/262813
 published: true
 ---
 <img src="http://supertux.berlios.de/wiki/skins/common/images/logo.png" align="left" />无聊的时候会做什么，当然是看维基百科。

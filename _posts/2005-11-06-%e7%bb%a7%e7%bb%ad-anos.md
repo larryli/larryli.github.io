@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-11-06 18:03:01
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/11/262783
+permalink: 2005/11/262783
 published: true
 ---
 http://larryli.51.net/anos

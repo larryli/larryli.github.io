@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-11-11 21:40:02
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/11/268055
+permalink: 2005/11/268055
 published: true
 ---
 <span id="zoom">相聚一刻 80#

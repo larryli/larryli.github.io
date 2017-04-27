@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2013-09-16 14:15:42
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2013/09/644775
+permalink: 2013/09/644775
 published: true
 ---
 Google Creative Lab 为 Raspberry Pi 提供了 <a href="http://goo.gl/coder">Coder</a> 工具，默认是使用 https 访问，用的是自动生成的自签名证书。

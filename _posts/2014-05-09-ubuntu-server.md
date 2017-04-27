@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2014-05-09 15:37:59
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2014/05/644820
+permalink: 2014/05/644820
 published: true
 ---
 首先，我所参与的技术团队都是这样的：

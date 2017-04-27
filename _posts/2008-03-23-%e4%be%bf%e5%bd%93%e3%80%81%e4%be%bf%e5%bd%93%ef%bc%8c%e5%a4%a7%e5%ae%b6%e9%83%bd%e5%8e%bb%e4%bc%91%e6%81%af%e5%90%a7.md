@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-03-23 01:45:01
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/625280
+permalink: 2008/03/625280
 published: true
 ---
 Gundom OO 下周将迎来本季最终话，所以继上周洛克昂挂掉之后，“天人”太空船被大破，众人接连领便当下课。半年之后的下一季看来要大换血咯。

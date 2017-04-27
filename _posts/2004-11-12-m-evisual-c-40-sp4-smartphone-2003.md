@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-11-12 00:23:26
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/11/262593
+permalink: 2004/11/262593
 published: true
 ---
 <span id="zoom"><a href="http://download.microsoft.com/download/c/3/f/c3f8b58b-9753-4c2e-8b96-2dfe3476a2f7/eVC4.exe" target="_blank">Microsoft Embedded Visual C++ 4.0</a> 编译器 IDE 和 CE SDK 开发包

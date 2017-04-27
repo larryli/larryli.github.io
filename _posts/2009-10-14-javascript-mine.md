@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-10-14 23:37:44
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/10/642711
+permalink: 2009/10/642711
 published: true
 ---
 完全使用 JS 实现的扫雷。一个单 html 文件，直接下载保存就可以了。

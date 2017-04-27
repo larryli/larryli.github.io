@@ -6,7 +6,7 @@ author: 南 靖男
 post_date: 2004-08-18 21:39:43
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/08/262547
+permalink: 2004/08/262547
 published: true
 ---
 一、出门大家要注意，交通事故损命的可能性最大；坐巴士麻木特别要小心。

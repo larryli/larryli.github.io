@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-05-31 20:10:40
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2007/05/263106
+permalink: 2007/05/263106
 published: true
 ---
 I'm comin' home, I've done my time

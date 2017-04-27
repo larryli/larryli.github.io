@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2015-12-22 17:25:22
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2015/12/644942
+permalink: 2015/12/644942
 published: true
 ---
 主站切换到 <a href="https://letsencrypt.org">Let's Encrypt</a> 自动颁发的免费证书。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-05-04 16:49:13
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/05/265296
+permalink: 2006/05/265296
 published: true
 ---
 <span id="zoom">今天是早就被 54 的 5 月 4 日。

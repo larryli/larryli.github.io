@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-12-15 17:40:52
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/12/635473
+permalink: 2008/12/635473
 published: true
 ---
 很难阻止用户习惯使用 doc 文档放入 svn，这个小工具 <a href="http://freemind.s57.xrea.com/xdocdiff/e/index.html">xdocdiff</a> 虽然不能进行合并，但是可以查看差异。

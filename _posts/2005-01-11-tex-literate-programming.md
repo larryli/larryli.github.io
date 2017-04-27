@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-01-11 22:16:43
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/01/262618
+permalink: 2005/01/262618
 published: true
 ---
 一直很想用 TeX。

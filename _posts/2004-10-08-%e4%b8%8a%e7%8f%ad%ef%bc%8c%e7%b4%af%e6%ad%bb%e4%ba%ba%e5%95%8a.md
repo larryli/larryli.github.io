@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-10-08 18:24:08
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/10/262570
+permalink: 2004/10/262570
 published: true
 ---
 今天上班倒是不累，是上班的路上累死了。

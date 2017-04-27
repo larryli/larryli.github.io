@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2005-11-29 20:00:26
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/11/262805
+permalink: 2005/11/262805
 published: true
 ---
 五只外星青蛙，绿、深蓝、红、黄、天蓝；男女主角，冬、夏。

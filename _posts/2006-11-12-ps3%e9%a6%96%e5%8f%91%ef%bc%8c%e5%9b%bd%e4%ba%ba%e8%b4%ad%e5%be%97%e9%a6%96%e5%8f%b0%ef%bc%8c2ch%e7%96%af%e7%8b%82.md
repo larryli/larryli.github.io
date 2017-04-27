@@ -6,7 +6,7 @@ author: 南 靖男
 post_date: 2006-11-12 22:12:13
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/11/262998
+permalink: 2006/11/262998
 published: true
 ---
 昨日上午 7 时，ps3 在东京有乐街总店由 sony 娱乐社长亲自首发将全球第一台 ps3 交给购买者。

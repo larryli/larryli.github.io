@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-06-08 22:54:57
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/06/262931
+permalink: 2006/06/262931
 published: true
 ---
 啊啊，“希望你能满足我的欲望。”

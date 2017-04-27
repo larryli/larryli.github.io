@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-10-09 17:25:56
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/10/262978
+permalink: 2006/10/262978
 published: true
 ---
 如果是这样，任厂确实厉害。

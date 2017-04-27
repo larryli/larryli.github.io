@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-12-09 23:44:29
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/12/262812
+permalink: 2005/12/262812
 published: true
 ---
 <a href="http://msdn.microsoft.com/vstudio/express/">http://msdn.microsoft.com/vstudio/express/</a>

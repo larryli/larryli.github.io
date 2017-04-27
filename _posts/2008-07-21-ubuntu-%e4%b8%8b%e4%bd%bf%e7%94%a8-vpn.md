@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-07-21 21:30:32
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/07/629720
+permalink: 2008/07/629720
 published: true
 ---
 参考<a href="http://chinagfw.blogspot.com/2008/07/ubuntu-vpn.html">这篇文章</a>安装下面的软件包：

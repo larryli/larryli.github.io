@@ -6,7 +6,7 @@ author: 南 靖男
 post_date: 2008-01-05 18:17:54
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/01/620985
+permalink: 2008/01/620985
 published: true
 ---
 海盗正式进入第三次灭国倒计时。一群人整天只知道摸手，喷口水。以后还是老死在自由吧。

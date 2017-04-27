@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-04-15 22:00:24
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/04/262671
+permalink: 2005/04/262671
 published: true
 ---
 svn 是最新版本的协作开发软件，cvs 的下一代。

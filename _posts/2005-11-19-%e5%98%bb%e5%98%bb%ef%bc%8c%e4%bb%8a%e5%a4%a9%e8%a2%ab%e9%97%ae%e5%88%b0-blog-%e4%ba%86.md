@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-11-19 23:01:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/11/262795
+permalink: 2005/11/262795
 published: true
 ---
 我有 blog 哟，就在这里。

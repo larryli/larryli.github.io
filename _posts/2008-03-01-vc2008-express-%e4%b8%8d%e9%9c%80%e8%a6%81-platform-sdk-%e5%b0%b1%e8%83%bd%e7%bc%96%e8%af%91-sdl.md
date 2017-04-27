@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2008-03-01 02:19:22
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/624253
+permalink: 2008/03/624253
 published: true
 ---
 给本本重装系统，然后艰难的安装 Visual C++ 2008 中文速成版，非得通过网络安装啊。那个可恶的 ISO 实在是太大。

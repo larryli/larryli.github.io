@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-08-28 20:53:39
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2007/08/354653
+permalink: 2007/08/354653
 published: true
 ---
 <a href="https://larryli.cn/wp-content/uploads/50/5051/2007/08/kagami.jpg" title="We Love Kagami!"><img src="https://larryli.cn/wp-content/uploads/50/5051/2007/08/kagami.jpg" alt="We Love Kagami!" /></a>

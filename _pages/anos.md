@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-09-09 16:01:17
 post_excerpt: ""
 layout: page
-permalink: https://larryli.cn/anos
+permalink: anos
 published: true
 ---
 <pre style="background-color: #000000"><font color="red">* <strong>ANOS: AN Operating System</strong>

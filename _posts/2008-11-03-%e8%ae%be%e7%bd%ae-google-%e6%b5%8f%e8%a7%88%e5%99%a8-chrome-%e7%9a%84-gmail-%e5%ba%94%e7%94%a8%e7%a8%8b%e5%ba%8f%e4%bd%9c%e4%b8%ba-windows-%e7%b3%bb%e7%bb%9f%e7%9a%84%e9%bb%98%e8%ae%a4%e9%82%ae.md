@@ -8,7 +8,7 @@ author: 南 靖男
 post_date: 2008-11-03 11:26:46
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/11/632219
+permalink: 2008/11/632219
 published: true
 ---
 <a href="http://www.google.com/chrome">Google 浏览器 Chrome</a> 可以将网站应用创建为独立的应用程序，比如 GMail。可以将该程序直接设置为 Windows 默认的邮件处理程序。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-02-28 14:49:34
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/02/262650
+permalink: 2005/02/262650
 published: true
 ---
 The ANOS Licence

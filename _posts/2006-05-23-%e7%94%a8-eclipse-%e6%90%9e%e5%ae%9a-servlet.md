@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-05-23 11:08:12
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/05/262924
+permalink: 2006/05/262924
 published: true
 ---
 手工记事本写 servlet 确实有一点麻烦，特别是摸不着头脑的时候。

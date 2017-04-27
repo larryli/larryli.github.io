@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-07-31 13:34:26
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/07/629930
+permalink: 2008/07/629930
 published: true
 ---
 吃个饭回来，Google Reader 里面就挤满了 <a href="http://im.qq.com/qq/linux/">QQ for Linux</a> 的消息。

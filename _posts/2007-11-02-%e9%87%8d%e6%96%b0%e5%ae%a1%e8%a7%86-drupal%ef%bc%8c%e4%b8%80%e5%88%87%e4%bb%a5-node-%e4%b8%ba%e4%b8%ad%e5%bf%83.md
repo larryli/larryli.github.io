@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2007-11-02 09:12:15
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2007/11/501167
+permalink: 2007/11/501167
 published: true
 ---
 花了点时间看了下 cck、og 和 project 模块，对 Drupal 的了解又深入了一层。就是以 node 为中心的设计。

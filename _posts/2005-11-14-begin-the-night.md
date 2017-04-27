@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-11-14 22:02:29
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/11/262791
+permalink: 2005/11/262791
 published: true
 ---
 从今天开始每天自动换 QQ 头像，周一到周五正好是五个奥运吉祥物，呵呵。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-05-21 16:05:19
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/05/262922
+permalink: 2006/05/262922
 published: true
 ---
 大早赶到关山去，又吃了闭门羹。等等吧，或许太早。

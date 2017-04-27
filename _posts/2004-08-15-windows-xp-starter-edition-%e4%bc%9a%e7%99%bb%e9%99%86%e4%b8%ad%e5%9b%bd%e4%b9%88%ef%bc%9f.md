@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2004-08-15 13:10:45
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/08/262544
+permalink: 2004/08/262544
 published: true
 ---
 首先，价格是多少？在泰国去年推出的 $40 价格基本可以接受。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-05-08 21:00:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/05/262468
+permalink: 2004/05/262468
 published: true
 ---
 老大 asmcos 出马，第一次举办网上讲座，什么都知道。

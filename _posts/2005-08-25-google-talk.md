@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-08-25 18:23:15
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/08/262750
+permalink: 2005/08/262750
 published: true
 ---
 <img src="http://www.google.com/talk/images/talk_logo.gif" align="left" height="57" hspace="3" width="120" />昨天第一时间下了 <a href="http://talk.google.com">Google Talk</a>。

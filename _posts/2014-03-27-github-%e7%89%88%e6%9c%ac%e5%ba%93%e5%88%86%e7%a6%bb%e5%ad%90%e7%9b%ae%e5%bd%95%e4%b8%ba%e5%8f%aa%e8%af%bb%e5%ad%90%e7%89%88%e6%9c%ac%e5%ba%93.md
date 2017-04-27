@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2014-03-27 15:11:36
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2014/03/644804
+permalink: 2014/03/644804
 published: true
 wp-syntax-cache-content:
   - |

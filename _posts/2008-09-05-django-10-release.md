@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-09-05 09:54:54
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/09/630899
+permalink: 2008/09/630899
 published: true
 ---
 Release 之前的几个版本似乎都不能用，等会 svn update。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-05-11 21:00:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/05/262474
+permalink: 2004/05/262474
 published: true
 ---
 也就是说这几天没有人看得见我的 Blog 了。

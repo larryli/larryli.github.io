@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-10-21 01:39:19
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/10/642800
+permalink: 2009/10/642800
 published: true
 ---
 无他内容，具体原因见<a href="https://larryli.cn/2009/10/21/642799">上一篇</a>。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-05-06 21:00:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/05/262465
+permalink: 2004/05/262465
 published: true
 ---
 一口气照了180多张PP，好恐怖啊。

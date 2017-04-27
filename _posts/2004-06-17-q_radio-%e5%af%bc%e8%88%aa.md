@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-06-17 18:05:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/06/262486
+permalink: 2004/06/262486
 published: true
 ---
 <a href="http://radio.qq.com/cgi-bin/media_index?url=mms://202.104.193.16/nj27&amp;show=%CE%E7%BA%F3%A4%CE%BF%A7%B7%C8">午后の咖啡</a> 每天中午 12:30 - 13:30

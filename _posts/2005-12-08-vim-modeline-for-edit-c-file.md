@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-12-08 20:49:29
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/12/262810
+permalink: 2005/12/262810
 published: true
 ---
 <pre>/* {filename}.c: {descripion}

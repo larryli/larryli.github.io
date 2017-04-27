@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-11-26 12:08:07
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/11/263007
+permalink: 2006/11/263007
 published: true
 ---
 截止现在这个时刻，中国所有城市中 wikimapia 标记排名。

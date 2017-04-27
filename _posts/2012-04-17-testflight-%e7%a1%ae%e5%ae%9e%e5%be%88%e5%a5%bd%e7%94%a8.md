@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2012-04-17 16:43:31
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2012/04/644657
+permalink: 2012/04/644657
 published: true
 ---
 不过还是得先买 Apple 的证书才行，<a href="https://testflightapp.com" title="TestFlight">TestFlight</a> 只是提供了一个 Ad Hoc 内部发布的管理平台。

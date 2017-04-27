@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-08-01 22:08:48
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/08/262531
+permalink: 2004/08/262531
 published: true
 ---
 “本书也许会激起某些读者的怀旧情感。。。”译者序中如此的开头就是我从书架上抽下这本书不再放回去的理由。

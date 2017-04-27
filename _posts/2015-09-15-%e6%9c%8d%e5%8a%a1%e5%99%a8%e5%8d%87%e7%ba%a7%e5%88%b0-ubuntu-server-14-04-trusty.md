@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2015-09-15 16:58:39
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2015/09/644911
+permalink: 2015/09/644911
 published: true
 ---
 迟了一年多，终于升级了。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2014-03-13 11:58:44
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2014/03/644796
+permalink: 2014/03/644796
 published: true
 ---
 最近写小脚本越来越多，基本上都是用 Golang 了，也慢慢习惯使用了 https://gist.github.com 来存放一些脚本。

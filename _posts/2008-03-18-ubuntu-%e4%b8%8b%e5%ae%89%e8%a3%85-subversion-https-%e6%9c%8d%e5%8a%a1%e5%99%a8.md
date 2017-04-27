@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2008-03-18 19:59:20
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/625142
+permalink: 2008/03/625142
 published: true
 ---
 首先是安装 Apache2，Ubuntu 上默认安装的 Apache2 就已经带上 ssl 模块。

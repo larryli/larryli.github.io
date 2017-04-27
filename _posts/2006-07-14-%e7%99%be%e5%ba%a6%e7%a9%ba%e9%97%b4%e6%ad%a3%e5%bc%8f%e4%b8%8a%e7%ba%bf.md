@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-07-14 13:19:48
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/07/262944
+permalink: 2006/07/262944
 published: true
 ---
 <a href="http://hi.baidu.com">百度空间</a>与腾讯 TM 我的空间大体功能基本一模一样。

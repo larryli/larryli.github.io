@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2008-09-04 10:25:31
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/09/630877
+permalink: 2008/09/630877
 published: true
 ---
 因为不是每个应用都需要使用 jk 转发到 Tomcat 所以修改了下加载。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-05-20 20:55:51
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/05/262921
+permalink: 2006/05/262921
 published: true
 ---
 感觉可以当作一种很奇怪的在线书签使用，还可以加上自己的注释。

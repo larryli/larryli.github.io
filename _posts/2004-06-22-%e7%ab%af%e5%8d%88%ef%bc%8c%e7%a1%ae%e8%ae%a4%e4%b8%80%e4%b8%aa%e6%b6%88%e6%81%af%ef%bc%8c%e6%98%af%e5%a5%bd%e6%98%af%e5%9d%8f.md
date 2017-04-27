@@ -6,7 +6,7 @@ author: 南 靖男
 post_date: 2004-06-22 22:49:08
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/06/262495
+permalink: 2004/06/262495
 published: true
 ---
 连续多日的郁闷是因为一个关系到我生存的事件即将到来。

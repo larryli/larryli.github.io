@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-03-10 18:58:02
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2007/03/263707
+permalink: 2007/03/263707
 published: true
 ---
 <span id="zoom">早晨起来习惯的打开电脑就看看无线网络状态，于是就惊奇的发现除了自己之外多了一个 AP。

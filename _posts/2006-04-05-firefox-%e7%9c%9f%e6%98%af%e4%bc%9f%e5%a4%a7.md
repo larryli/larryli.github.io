@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-04-05 22:15:24
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/04/262889
+permalink: 2006/04/262889
 published: true
 ---
 当然，你得安装这些形形色色的扩展才觉得伟大之处。

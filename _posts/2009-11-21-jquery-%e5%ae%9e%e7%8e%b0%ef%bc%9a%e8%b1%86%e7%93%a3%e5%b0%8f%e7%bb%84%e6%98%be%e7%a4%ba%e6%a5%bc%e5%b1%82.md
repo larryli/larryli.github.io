@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-11-21 12:59:05
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/11/643502
+permalink: 2009/11/643502
 published: true
 ---
 <p>右键将这个“<a href="javascript:void((function(){var%20start=1,mts=/%5C?.*start=(%5Cd+)/i.exec(window.location.href);if(mts!=null)start+=parseInt(mts[1]);$(%27li.clearfix%20&gt;%20div.reply-doc%20h4%27).each(function(i){$(this).filter(%27:not(:has(div))%27).prepend(%27&lt;div%20style=&quot;float:right;&quot;&gt;#%27+(start+i)+%27&lt;/div&gt;%27)})})())" title="显示楼层">显示楼层</a>”加入收藏夹/书签，然后在豆瓣的小组话题页面点击这个书签，就可以了。</p>

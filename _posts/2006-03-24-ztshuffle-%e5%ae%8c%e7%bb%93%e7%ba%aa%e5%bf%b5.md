@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-03-24 13:32:59
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/03/262882
+permalink: 2006/03/262882
 published: true
 ---
 　　这算是一个迟到的完结纪念吧……

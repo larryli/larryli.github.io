@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-12-11 15:45:21
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/12/262604
+permalink: 2004/12/262604
 published: true
 ---
 <strong>人没有牺牲的话就什么都得不到，为了得到什么东西，就必须付出同等的代价，这就是炼金术的“等价交换”原则！那时我们坚信那就是世界的真实！

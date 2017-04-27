@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2006-05-08 22:03:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2006/05/262913
+permalink: 2006/05/262913
 published: true
 ---
 折腾了一个多星期。没有进展。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2009-11-09 23:39:03
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2009/11/643381
+permalink: 2009/11/643381
 published: true
 ---
 网址：<a href="http://sae.sina.com.cn/">http://sae.sina.com.cn/</a>

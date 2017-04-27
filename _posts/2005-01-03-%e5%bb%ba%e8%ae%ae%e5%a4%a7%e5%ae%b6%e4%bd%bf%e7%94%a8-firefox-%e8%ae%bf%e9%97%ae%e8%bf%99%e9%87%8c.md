@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-01-03 11:37:19
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/01/262615
+permalink: 2005/01/262615
 published: true
 ---
 火狐越来越好了，为了更好就需要大家来支持，一起革新你的浏览器吧～～～

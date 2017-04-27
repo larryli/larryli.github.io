@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2017-04-10 18:41:21
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2017/04/645619
+permalink: 2017/04/645619
 published: true
 ---
 因为众所周知的原因，StartSSL 已经不合适再继续使用了。而且 <a href="https://letsencrypt.org/">Let's Encrypt</a> 也足够好用。

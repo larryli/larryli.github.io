@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-11-12 23:40:42
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/11/262591
+permalink: 2004/11/262591
 published: true
 ---
 Mobile Application Development ToolKit 里面居然就有 eVC4 的 CD Key : TRT7H-KD36T-FRH8D-6QH8P-VFJHQ 嘿嘿，真不知道 M$ 葫芦卖的是什么药。

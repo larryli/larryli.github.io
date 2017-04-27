@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2015-03-02 11:20:39
 post_excerpt: ""
 layout: page
-permalink: https://larryli.cn/putty
+permalink: putty
 published: true
 ---
 <p style="padding-left: 30px">推荐直接使用 <a href="https://git-for-windows.github.io/">Git for Windows</a> 下的 ssh 工具。msysgit 内置有基于 PuTTY 6.0 改造的 <a href="https://mintty.github.io/">Mintty</a> 终端，并且提供有完整 Linux/Unix 环境。</p>

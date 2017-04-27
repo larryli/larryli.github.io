@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2008-03-01 18:21:11
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/03/624270
+permalink: 2008/03/624270
 published: true
 ---
 首先找到 Windows 下的 .inf 文件，我的是 neti2220.inf 貌似在 NTFS 盘上不能直接用，需要先复制到 home 目录。然后 sudo apt-get install ndisgtk，再到“系统”－》“系统管理”－》“Windows Wireless Drivers”里面 Install New Driver，成功后会显示驱动名称和硬件是否存在。虽然 Ubuntu 7.10 的帮助就此结束，但事情还没完，需要继续操作。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-05-02 23:07:12
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/05/262676
+permalink: 2005/05/262676
 published: true
 ---
 申请了一个新域名，将论坛整理了一下下。

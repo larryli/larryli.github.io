@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2005-11-08 23:07:17
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/11/262787
+permalink: 2005/11/262787
 published: true
 ---
 镜像地址在：<a href="http://wrc.gro.clinux.org/johnfindlay/lcc-win32/">http://larryli.51.net/lccwin32</a>

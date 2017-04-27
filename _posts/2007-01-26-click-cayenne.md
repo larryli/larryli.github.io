@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2007-01-26 13:39:39
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2007/01/263040
+permalink: 2007/01/263040
 published: true
 ---
 <span id="zoom">Click Framework is modern JEE web application framework, providing a natural rich client style programming model. Click is designed to be very easy to learn and use, with developers getting up and running within a day.

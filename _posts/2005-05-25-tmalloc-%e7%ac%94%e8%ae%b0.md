@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2005-05-25 21:30:33
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/05/262689
+permalink: 2005/05/262689
 published: true
 ---
 <a href="http://www.john.findlay1.btinternet.co.uk">John Findlay</a> 的 TMalloc Lib 是用于查错调试，而不是用于产品。

@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-05-12 21:00:00
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/05/262475
+permalink: 2004/05/262475
 published: true
 ---
 vrix 说是流水帐，我也觉得是。

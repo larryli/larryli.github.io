@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2005-03-14 22:47:56
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2005/03/262655
+permalink: 2005/03/262655
 published: true
 ---
 <a href="http://www.anandtech.com/news/shownews.aspx?i=23767">http://www.anandtech.com/news/shownews.aspx?i=23767</a>

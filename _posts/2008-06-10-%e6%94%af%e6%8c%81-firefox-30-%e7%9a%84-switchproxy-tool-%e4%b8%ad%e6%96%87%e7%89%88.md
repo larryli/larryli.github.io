@@ -7,7 +7,7 @@ author: 南 靖男
 post_date: 2008-06-10 15:55:02
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2008/06/628329
+permalink: 2008/06/628329
 published: true
 ---
 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/125" title="SwitchProxy Tool 1.4.1">SwitchProxy Tool</a> 很久没更新，自然不支持马上要 Release 的 Firefox 3.0。另外也没有中文本地化。

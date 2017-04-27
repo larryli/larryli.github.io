@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2012-01-04 13:53:55
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2012/01/644577
+permalink: 2012/01/644577
 published: true
 ---
 2011 年末传出动态语言大范围的 <a href="http://www.laruence.com/2011/12/29/2412.html">Hash DOS</a> 攻击漏洞。年后上班一看到就发现宣传都是说该漏洞是核弹级别的。正在考虑是否真的需要放弃 apt 源，手工 patch 源码更新时，从漏洞的传播源看到有人<a href="http://nikic.github.com/2011/12/28/Supercolliding-a-PHP-array.html#dsq-comment-body-396715488">评论</a>提到了 Suhosin。

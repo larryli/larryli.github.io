@@ -5,7 +5,7 @@ author: 南 靖男
 post_date: 2004-08-21 21:41:31
 post_excerpt: ""
 layout: post
-permalink: https://larryli.cn/2004/08/262549
+permalink: 2004/08/262549
 published: true
 ---
 <font face="comic sans ms,sand">I saw a big apple tree.
